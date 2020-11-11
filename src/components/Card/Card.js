@@ -1,6 +1,5 @@
 import React from 'react';
 import styles from './Card.scss';
-import List from '../List/List.js';
 import PropTypes from 'prop-types';
 
 class Card extends React.Component {
