@@ -19,6 +19,22 @@ export const pageContents = {
   subtitle: 'A simple to-do app, with lists, columns and cards',
 };
 
+export const headerContents = {
+  icon: 'smile',
+};
+
+export const infoContents = {
+  title: 'Info',
+  image: 'https://i.postimg.cc/j2RhY47S/pexels-pixabay-255419.jpg',
+  content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras placerat sit amet ex eu hendrerit. Nam aliquam quam eget luctus bibendum. Aliquam iaculis finibus placerat. Nulla nec mauris mi. Mauris in mattis turpis, maximus eleifend nisi. Ut maximus augue urna, sit amet tincidunt odio vehicula vitae. Donec at felis non tortor consectetur euismod et quis purus.',
+};
+
+export const faqContents = {
+  title: 'Faq',
+  image: 'https://i.postimg.cc/bwmWCd4n/pexels-david-jakab-1080722.jpg',
+  content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras placerat sit amet ex eu hendrerit. Nam aliquam quam eget luctus bibendum. Aliquam iaculis finibus placerat. Nulla nec mauris mi. Mauris in mattis turpis, maximus eleifend nisi. Ut maximus augue urna, sit amet tincidunt odio vehicula vitae. Donec at felis non tortor consectetur euismod et quis purus.',
+};
+
 export const listData = {
   title: 'Things to do <sup>soon!</sup>',
   description: 'Interesting things I want to check out!',
