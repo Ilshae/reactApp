@@ -3,7 +3,6 @@
 .component {
   width: 100%;
   display: flex;
-  justify-content: center;
 
   input {
     // flex-grow: 1;
@@ -13,6 +12,5 @@
     margin: 0 0 $base-size 0;
     font-family: $font-text;
     border-radius: $radius;
-    
   }
 }
